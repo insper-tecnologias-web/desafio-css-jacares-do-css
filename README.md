@@ -5,7 +5,7 @@ Grupo:
 - André Barboza de Braga Melo
 - Rafael Lima
 - Rodrigo Anciães Patelli
-- Link do GitHub Pages: COLOQUE O LINK AQUI (POR EXEMPLO: https://barbaratieko.github.io/tecweb-2021-2-desafio-css/)
+- Link do GitHub Pages: COLOQUE O LINK AQUI https://insper-tecnologias-web.github.io/desafio-css-jacares-do-css/
 
 ## Desafio CSS
 
