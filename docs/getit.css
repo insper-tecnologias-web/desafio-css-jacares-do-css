@@ -134,7 +134,7 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: left;
-  padding: 1rem;
+  padding: .7rem;
   width: 35rem;
   border-radius: 0.5rem;
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
@@ -143,21 +143,22 @@ body {
 }
 
 .form-card-title{
+  border: 0;
   position: relative;
   margin-bottom: 1rem;
   border-color: white;
-  font-size: medium;
+  font-size: 1.3rem;
   font-weight: bold;
 }
 
-
 .autoresize{
+  resize: none;
   position: relative;    
-  margin-bottom: 1rem;
+  margin-top: .2rem;
+  margin-bottom: .2rem;
   border-color: white;
   font-family: "Roboto", sans-serif;
-
-
+  font-weight: 500;
 }
 
 .btn{
